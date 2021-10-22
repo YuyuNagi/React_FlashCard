@@ -12,6 +12,8 @@
 ### 點選卡片翻面顯示答案 :
 ![alt text][answer]
 
+#### 參考 :
+[Web Dev Simplified - How To Build A Flashcard Quiz With React](https://www.youtube.com/watch?v=hEtZ040fsD8)
 
 [run]: https://github.com/YuyuNagi/FlashCard/blob/main/%E9%96%8B%E5%A7%8B%E7%95%AB%E9%9D%A2.png?raw=true
 [choose]: https://github.com/YuyuNagi/FlashCard/blob/main/%E9%81%B8%E9%A1%8C%E5%BA%AB.png?raw=true
